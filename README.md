@@ -8,4 +8,4 @@ Five responsive pages cover the five tasks: Flexbox navigation and cards, CSS Gr
 
 **Repository:** https://github.com/asikxz008/Assigment2-web1-Aslan
 
-Open `index.html` in a browser to run the site locally. Run `node --test` to check navigation, assets and required layouts.
+Open `index.html` in a browser to run the site locally.
