@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#30385f"/><stop offset="1" stop-color="#b7758a"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop stop-color="#625d8b"/><stop offset="1" stop-color="#273d65"/></linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#sky)"/>
+  <circle cx="309" cy="62" r="24" fill="#f5cbb4"/>
+  <path d="M0 169h28V99h37v70h14V68h46v101h15v-46h33v46h17V83h52v86h14v-35h41v35h15V71h49v98h15v-54h38v54h12v131H0Z" fill="#34415f"/>
+  <path d="M11 188V115m29 43v-42m24 63v-37m35 23v-81m21 57v-44m37 76v-33m53 39V98m23 48v-36m44 53v-17m24 48v-42m39 5V89m20 68v-53m32 79v-51" fill="none" stroke="#e6b787" stroke-dasharray="4 10" stroke-width="5"/>
+  <path d="M0 217q100-9 200 0t200 0v83H0Z" fill="url(#river)"/>
+  <path d="M0 224q100-8 200 0t200 0M0 261q100-8 200 0t200 0" fill="none" stroke="#bd8ba1" stroke-opacity=".35" stroke-width="3"/>
+  <path d="M77 238h51m78 12h72m39-15h29" stroke="#f1c3a5" stroke-linecap="round" stroke-width="3" opacity=".55"/>
+</svg>

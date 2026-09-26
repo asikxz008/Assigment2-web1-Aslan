@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#5abac7"/><stop offset="1" stop-color="#bce5dd"/></linearGradient>
+    <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#3cabae"/><stop offset="1" stop-color="#187c96"/></linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#sky)"/>
+  <circle cx="285" cy="82" r="34" fill="#fff0c1"/>
+  <path d="M0 153h400v147H0Z" fill="url(#sea)"/>
+  <path d="M0 209q68-16 136 2t131-2q63-19 133 0v91H0Z" fill="#e8d2a1"/>
+  <path d="M0 237q109-21 189 3t211-4" fill="none" stroke="#fff1cb" stroke-width="9" opacity=".75"/>
+  <path d="M85 224Q104 137 76 54" fill="none" stroke="#765c4a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M77 59Q4 43 1 109 36 88 77 59Zm0 0q-49-52-93-17 42 1 93 17Zm0 0q74-38 103 8-45-10-103-8Zm0 0q37-62 99-50-48 18-99 50Z" fill="#367965"/>
+  <path d="M334 200q12-47 2-82" fill="none" stroke="#765c4a" stroke-width="9"/>
+  <path d="M336 121q-45-26-61 9 28-8 61-9Zm0 0q33-39 60-10-31-1-60 10Zm0 0q20-38 48-35-20 15-48 35Z" fill="#41846c"/>
+</svg>

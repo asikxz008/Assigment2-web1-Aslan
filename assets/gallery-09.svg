@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#162c4d"/><stop offset="1" stop-color="#48647e"/></linearGradient>
+    <linearGradient id="snow" x2="0" y2="1"><stop stop-color="#d2e4eb"/><stop offset="1" stop-color="#92b8c7"/></linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#sky)"/>
+  <path d="M0 79q90-68 179 2t221-25" fill="none" stroke="#62b9a0" stroke-opacity=".58" stroke-width="32"/>
+  <path d="M0 96q100-61 182 7t218-20" fill="none" stroke="#97c3ae" stroke-opacity=".3" stroke-width="16"/>
+  <circle cx="294" cy="57" r="17" fill="#f0efdc"/>
+  <path d="M37 54h2m45-32h2m62 46h2m36-41h2m-73 75h2m114-62h2m113 58h2m23-55h2" stroke="#e8eff0" stroke-linecap="round" stroke-width="3"/>
+  <path d="M0 196 71 99l73 98 81-83 98 91 42-54 35 51v98H0Z" fill="#638398"/>
+  <path d="m71 99 19 26-18-7-15 8Zm154 15 28 27-28-9-20 12Zm140 37 14 20-14-8-12 9Z" fill="#e2edf0"/>
+  <path d="M0 219q102-18 183 1t217-13v93H0Z" fill="url(#snow)"/>
+  <path d="m187 260 34-55 35 55Z" fill="#d5866c"/>
+  <path d="m221 205 35 55h-35Z" fill="#a96762"/>
+  <path d="M205 260h16v-21Z" fill="#f7d6a5"/>
+  <path d="M0 272q93-14 171 2m105-7q67-15 124-5" fill="none" stroke="#f2f7f1" stroke-opacity=".7" stroke-width="4"/>
+</svg>
